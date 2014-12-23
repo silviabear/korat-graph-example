@@ -1,0 +1,48 @@
+
+Start of Korat Execution for test.Graph (repOK, [0])
+
+Total explored:1
+New found:1
+
+End of Korat Execution
+Overall time: 0.169 s.
+
+Start of Korat Execution for test.Graph (repOK, [1])
+
+Total explored:1
+New found:1
+
+End of Korat Execution
+Overall time: 0.17 s.
+
+Start of Korat Execution for test.Graph (repOK, [2])
+
+Total explored:5
+New found:1
+
+End of Korat Execution
+Overall time: 0.181 s.
+
+Start of Korat Execution for test.Graph (repOK, [3])
+
+Total explored:57
+New found:4
+
+End of Korat Execution
+Overall time: 0.201 s.
+
+Start of Korat Execution for test.Graph (repOK, [4])
+
+Total explored:1205
+New found:57
+
+End of Korat Execution
+Overall time: 0.266 s.
+
+Start of Korat Execution for test.Graph (repOK, [5])
+
+Total explored:58785
+New found:3399
+
+End of Korat Execution
+Overall time: 0.821 s.
